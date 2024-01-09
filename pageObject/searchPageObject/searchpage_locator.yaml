@@ -1,0 +1,5 @@
+searchFlightLink: '//android.widget.Button[@resource-id="com.example.myapplication:id/search_flight"]'
+searchFlightInput: '//android.widget.EditText[@resource-id="com.example.myapplication:id/flight_number"]'
+searchFlightButton: '//android.widget.Button[@resource-id="com.example.myapplication:id/searchFlight"]'
+flightNumber: '//android.widget.TextView[@text="DA 935"]'
+searchFlightMessage: '//android.widget.Toast[@text="Please enter valid Flight Number"]'
